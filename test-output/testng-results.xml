@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-25T17:17:29 IST" name="Default suite" finished-at="2023-07-25T17:18:01 IST" duration-ms="31592">
+    <groups>
+    </groups>
+    <test started-at="2023-07-25T17:17:29 IST" name="Default test" finished-at="2023-07-25T17:18:01 IST" duration-ms="31592">
+      <class name="Amazon.NikAmazon.TestClass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Amazon.NikAmazon.TestClass@17497425]" started-at="2023-07-25T17:17:29 IST" name="setup" finished-at="2023-07-25T17:17:36 IST" duration-ms="6550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AmezonPage()[pri:0, instance:Amazon.NikAmazon.TestClass@17497425]" started-at="2023-07-25T17:17:36 IST" name="AmezonPage" finished-at="2023-07-25T17:18:01 IST" duration-ms="24988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AmezonPage -->
+      </class> <!-- Amazon.NikAmazon.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
